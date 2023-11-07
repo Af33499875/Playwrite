@@ -16,7 +16,6 @@ public class Tests : PageTest
         await Page.GotoAsync(url:"http://www.eaapp.somee.com");
     }
 
-
     [Test]
     public async Task Test1()
     {
